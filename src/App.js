@@ -133,7 +133,7 @@ function App() {
                   <td className='py-1 px-6'>
                     Aurelia JS
                   </td>
-                  <td className='py-1 px-6'>Python</td>
+                  <td></td>
                   <td></td>
                 </tr>
                 <tr className='bg-slate-400'>
