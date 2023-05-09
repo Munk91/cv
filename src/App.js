@@ -140,7 +140,9 @@ function App() {
                   <td className='py-1 px-6'>
                     VueJS
                   </td>
-                  <td></td>
+                  <td className='py-1 px-6'>
+                    Rust
+                  </td>
                   <td></td>
                 </tr>
                 <tr>
@@ -166,7 +168,7 @@ function App() {
                   <svg aria-hidden="true" class="w-3 h-3 text-blue-600 dark:text-blue-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"></path></svg>
                 </span>
                 <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">Software Developer - TV 2 Denmark<span class="bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">Current</span></h3>
-                <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">May 2019 - Present · 3 yrs 7 mos</time>
+                <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">May 2019 - Present</time>
                 <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Frontend developer on <a href="https://play.tv2.dk" target="_blank" rel='noreferrer' className='text-blue-400'>play.tv2.dk</a> - Using a modern tech stack including a variety of libraries, for example: NodeJS, ReactJS, NextJS, TypeScript and GraphQL.</p>
                 <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Frontend developer on our SmartTV solutions, using same tech stack as our web platform.</p>
                 <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Scrum Master for almost 3 years. Implemented Product Thinking on a new Product Team. Worked to improve an already experienced and well foundated team, regarding ways of working, processes and communication.</p>
