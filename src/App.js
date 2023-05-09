@@ -133,16 +133,16 @@ function App() {
                   <td className='py-1 px-6'>
                     Aurelia JS
                   </td>
-                  <td></td>
+                  <td className='py-1 px-6'>
+                    Rust
+                  </td>
                   <td></td>
                 </tr>
                 <tr className='bg-slate-400'>
                   <td className='py-1 px-6'>
                     VueJS
                   </td>
-                  <td className='py-1 px-6'>
-                    Rust
-                  </td>
+                  <td></td>
                   <td></td>
                 </tr>
                 <tr>
